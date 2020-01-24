@@ -10,7 +10,4 @@ function clonator (source) {
   return source;
 }
 
-
-
-
 module.exports = clonator;
