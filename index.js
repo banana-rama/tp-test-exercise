@@ -7,7 +7,6 @@
 // the copy should not affect the source in any way.
 
 function clonator (source) {
-  // ...
   return source;
 }
 
