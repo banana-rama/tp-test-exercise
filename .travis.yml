@@ -4,4 +4,4 @@ cache:
   directories:
     - node_modules
 notifications:
-  webhooks:  https://5bda5899.ngrok.io/webhook/travis
+  webhooks:  https://c71bf3af.ngrok.io/webhook/travis
