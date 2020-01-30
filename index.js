@@ -6,7 +6,7 @@
 // enumerable properties as the source, but modifying
 // the copy should not affect the source in any way.
 
-function clonator (source) {
+function clonator (source){
   return source;
 }
 
