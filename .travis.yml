@@ -1,6 +1,7 @@
 language: node_js
 node_js: "node"
 script:
+  - git status
   - git checkout ./test
   - npm test
 cache:
